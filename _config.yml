@@ -1,17 +1,17 @@
 # ----
 # Site
 
-title: Aperture Template
-url: "https://cosmic-hippopotamus.cloudvent.net"
+title: Tuan Nguyen's Photography
+url: "https://tuanchris.github.io/photography-portfolio/"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-155030319-1
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description: The world through my lenses
 author:
-  name:
-  email:
+  name: Tuan Nguyen
+  email: anhtuan.nguyen@me.com
   twitter: # twitter username without the @ symbol
 social:
   name: Aperture Template
